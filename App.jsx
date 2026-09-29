@@ -1,9 +1,9 @@
-import Stopwatch from "./Component/Stopwatch";
+import AccessForm from "./Component/AccessForm";
 
 function App(){
   return(
     <>
-    <Stopwatch/>
+    <AccessForm/>
     </>
   )
 }
